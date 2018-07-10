@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+  <html lang="en">
+    <head>
+      <title>Correlation One Card Deal</title>
+      <meta charset="utf-8" name="viewport" content="width=device-width">
+      <link href='./main.css' rel='stylesheet'>
+    </head>
+    <body>
+      <div class="panel" class="flex">
+        <form id="deal-cards" class="flex" method="POST">
+          <fieldset>
+            <button id="button" type="submit" form="deal-cards" value="Deal">Deal</button>
+          </fieldset>
+        </form>
+        <ul id="card-list" class="flex">
+          <li id="dealt-cards"></li> 
+        </ul>
+        <audio id="card-sound" src="http://freesound.org/data/previews/240/240776_4107740-lq.mp3" autostart="false"></audio>
+      </div>
+      <script type="text/javascript" src="./main.js"></script>
+    </body>
+  </html>
