@@ -1,8 +1,6 @@
-Hey Justin!
+A simple game that deals a deck of cards, done as part of a coding test. 
 
-So I decided that the only way to get over my annoyance at being unable to finish the card game in time was to do it on my own and finish strong!
-
-I have done as quick of a job as I could manage (about 4 hrs from start to finish) and while I'm satisfied with the overall result, I still have thoughts as to how things could be improved. Here are a few I'd like to share...
+Thoughts for improvement...
 
 Make the design responsive! Currently, its only intended for desktop. 
 
